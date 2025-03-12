@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Posttest1 PV/1.0.0": {
+        "runtime": {
+          "Posttest1 PV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Posttest1 PV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
