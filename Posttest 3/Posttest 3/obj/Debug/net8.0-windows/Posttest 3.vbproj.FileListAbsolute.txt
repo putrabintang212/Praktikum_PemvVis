@@ -1,0 +1,17 @@
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\Posttest_3.Form_Hasil.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\Posttest_3.Form1.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\Posttest 3.vbproj.GenerateResource.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\Posttest 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\Posttest 3.AssemblyInfoInputs.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\Posttest 3.AssemblyInfo.vb
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\Posttest 3.vbproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\bin\Debug\net8.0-windows\Posttest 3.exe
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\bin\Debug\net8.0-windows\Posttest 3.deps.json
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\bin\Debug\net8.0-windows\Posttest 3.runtimeconfig.json
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\bin\Debug\net8.0-windows\Posttest 3.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\bin\Debug\net8.0-windows\Posttest 3.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\Posttest 3.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\refint\Posttest 3.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\Posttest 3.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\Posttest 3.genruntimeconfig.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 4\Posttest 3\Posttest 3\obj\Debug\net8.0-windows\ref\Posttest 3.dll
