@@ -1,0 +1,35 @@
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\Posttest 5.exe
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\Posttest 5.deps.json
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\Posttest 5.runtimeconfig.json
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\Posttest 5.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\Posttest 5.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest_5.Form1.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest 5.vbproj.GenerateResource.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest 5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest 5.AssemblyInfoInputs.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest 5.AssemblyInfo.vb
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest 5.vbproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest 5.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\refint\Posttest 5.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest 5.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest 5.genruntimeconfig.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\ref\Posttest 5.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest 5.vbproj.AssemblyReference.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest 5.vbproj.Up2Date
+E:\Kuliah\Semester 4\Pemrograman Visual\Praktikum\Week 5\Posttest 5\Posttest 5\Posttest 5\obj\Debug\net8.0-windows\Posttest_5.Resources.resources
