@@ -1,0 +1,350 @@
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\Testing.exe.config
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\Testing.exe
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\Testing.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\Testing.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\FontAwesome.Sharp.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Project.vbproj.AssemblyReference.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Admin_Panel.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Beranda.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Form_Checkout.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Login.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Produk_Keyboard.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Produk_Laptop.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Produk_Mouse.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Register.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Resources.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Struk.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Project.vbproj.GenerateResource.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Project.vbproj.Up2Date
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.exe
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\Google.Protobuf.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\K4os.Compression.LZ4.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\K4os.Hash.xxHash.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\MySql.Data.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Buffers.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.IO.Pipelines.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Memory.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Numerics.Vectors.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\ZstdSharp.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\Google.Protobuf.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\Google.Protobuf.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\K4os.Compression.LZ4.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\K4os.Hash.xxHash.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\MySql.Data.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Buffers.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.IO.Pipelines.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Memory.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Numerics.Vectors.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Panel_Tambah.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Test\Testing\Testing\obj\Debug\Testing.Panel_Hapus.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\Testing.exe.config
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\Testing.exe
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\Testing.pdb
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\Testing.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\FontAwesome.Sharp.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\Google.Protobuf.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\K4os.Hash.xxHash.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\MySql.Data.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Buffers.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.IO.Pipelines.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Memory.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Numerics.Vectors.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\ZstdSharp.dll
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\Google.Protobuf.pdb
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\Google.Protobuf.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\K4os.Hash.xxHash.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\MySql.Data.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Buffers.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.IO.Pipelines.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Memory.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Numerics.Vectors.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Project.vbproj.AssemblyReference.cache
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Admin_Panel.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Beranda.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Form_Checkout.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Login.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Panel_Hapus.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Panel_Tambah.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Produk_Keyboard.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Produk_Laptop.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Produk_Mouse.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.register.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Resources.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Struk.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Project.vbproj.GenerateResource.cache
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Project.vbproj.Up2Date
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.exe
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.xml
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.pdb
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Panel_Lihat.resources
+D:\Kuliah\Pemrograman Visual\Testing\Testing\Testing\obj\Debug\Testing.Panel_Edit.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\Testing.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\MySql.Data.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\ZstdSharp.dll
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\Google.Protobuf.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\MySql.Data.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Buffers.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Memory.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Project.vbproj.AssemblyReference.cache
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Admin_Panel.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Beranda.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Panel_Edit.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Panel_Lihat.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Form_Checkout.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Login.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Panel_Hapus.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Panel_Tambah.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Produk_Keyboard.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Produk_Laptop.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Produk_Mouse.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.register.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Resources.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Struk.resources
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Project.vbproj.GenerateResource.cache
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Project.vbproj.Up2Date
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.xml
+C:\Users\User\Downloads\PA_new\Testing\Testing\Testing\obj\Debug\Testing.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\Testing.exe.config
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\Testing.exe
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\Testing.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\Testing.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\FontAwesome.Sharp.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\Google.Protobuf.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Hash.xxHash.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\MySql.Data.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Buffers.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.IO.Pipelines.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Memory.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Numerics.Vectors.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\ZstdSharp.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\Google.Protobuf.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\Google.Protobuf.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\K4os.Hash.xxHash.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\MySql.Data.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Buffers.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.IO.Pipelines.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Memory.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Numerics.Vectors.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Project.vbproj.AssemblyReference.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Admin_Panel.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Beranda.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Panel_Edit.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Panel_Lihat.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Form_Checkout.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Login.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Panel_Hapus.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Panel_Tambah.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Produk_Keyboard.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Produk_Laptop.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Produk_Mouse.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.register.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Resources.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.Struk.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Project.vbproj.GenerateResource.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Project.vbproj.Up2Date
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.exe
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.pdb
+D:\Kuliah\Pemrograman Visual\PA_lanjutan\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Project.vbproj.AssemblyReference.cache
+D:\Kuliah\Pemrograman Visual\PA_lanjutan\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.exe
+D:\Kuliah\Pemrograman Visual\PA_lanjutan\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.xml
+D:\Kuliah\Pemrograman Visual\PA_lanjutan\PA_lanjutan\PA_new\Testing\Testing\Testing\obj\Debug\Testing.pdb
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Project.vbproj.AssemblyReference.cache
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.exe
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.pdb
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\Testing.exe.config
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\Testing.exe
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\Testing.pdb
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\Testing.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\FontAwesome.Sharp.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\Google.Protobuf.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Compression.LZ4.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Hash.xxHash.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\MySql.Data.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Buffers.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.IO.Pipelines.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Memory.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Numerics.Vectors.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\ZstdSharp.dll
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\Google.Protobuf.pdb
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\Google.Protobuf.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Compression.LZ4.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Hash.xxHash.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\MySql.Data.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Buffers.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.IO.Pipelines.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Memory.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Numerics.Vectors.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Admin_Panel.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Beranda.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Panel_Edit.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Panel_Lihat.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Form_Checkout.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Login.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Panel_Hapus.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Panel_Tambah.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Produk_Keyboard.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Produk_Laptop.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Produk_Mouse.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.register.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Resources.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Struk.resources
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Project.vbproj.GenerateResource.cache
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman Visual\Testingpa\Testing\obj\Debug\Project.vbproj.Up2Date
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\Testing.exe.config
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\Testing.exe
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\Testing.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\Testing.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\FontAwesome.Sharp.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\Google.Protobuf.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Compression.LZ4.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Hash.xxHash.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\MySql.Data.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Buffers.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.IO.Pipelines.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Memory.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Numerics.Vectors.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\ZstdSharp.dll
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\Google.Protobuf.pdb
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\Google.Protobuf.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Compression.LZ4.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\K4os.Hash.xxHash.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\MySql.Data.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Buffers.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.IO.Pipelines.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Memory.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Numerics.Vectors.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Project.vbproj.AssemblyReference.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Admin_Panel.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Beranda.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Panel_Edit.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Panel_Lihat.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Form_Checkout.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Login.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Panel_Hapus.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Panel_Tambah.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Produk_Keyboard.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Produk_Laptop.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Produk_Mouse.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.register.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Resources.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.Struk.resources
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Project.vbproj.GenerateResource.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Project.vbproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Project.vbproj.Up2Date
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.exe
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.xml
+E:\Kuliah\Semester 4\Pemrograman Visual\Testingpa\Testing\obj\Debug\Testing.pdb
